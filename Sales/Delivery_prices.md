@@ -1,0 +1,6 @@
+- Enable in settings the deliver methods
+- Configure or create shipping methods
+- Must be published
+- Set delivery product
+- When creating SO, click Add Shipping button
+- If incase a price or quantity is updated, click update shipping
