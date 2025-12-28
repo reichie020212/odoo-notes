@@ -1,0 +1,4 @@
+- Go to products then sales tab
+- Add optional products
+- Add Accessory products
+- Add Alternative products
