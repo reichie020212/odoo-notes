@@ -1,3 +1,5 @@
+## PDF Quote Builder
+
 Enable in Configuration -> Settings
 
 Go to headers and footers menu inside configuration menu

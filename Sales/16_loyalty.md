@@ -1,3 +1,5 @@
+## Loyalty Programs
+
 Enable in Config Settings
 
 Go to sales -> product -> discount and loyalty menu

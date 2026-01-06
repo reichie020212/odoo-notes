@@ -1,3 +1,5 @@
+## Promotion Basics and Discounts
+
 Enable `Discounts` and `Promotions, loyalty, and gift cards`
 
 Go to Sales -> mProducts -> Discount and loyalty

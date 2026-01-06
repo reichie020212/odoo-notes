@@ -1,3 +1,5 @@
+## Tax
+
 Go to apps menu then search `tax` to see all tax modules
 
 Go to Accounting -> Configuration -> taxes

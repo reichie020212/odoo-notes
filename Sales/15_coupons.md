@@ -1,3 +1,5 @@
+## Coupons
+
 Enable `Promotions, Loyalty, and Gift cards` in settings
 
 Go to sales -> product -> Discount and Loyalty

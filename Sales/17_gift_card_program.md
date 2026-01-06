@@ -1,3 +1,5 @@
+## Gift Card Programs
+
 Enable Promotion Settings
 
 Go to Sales -> Product -> Gift cards and eWallet menu

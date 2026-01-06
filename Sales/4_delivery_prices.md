@@ -1,3 +1,5 @@
+## Delivery Prices
+
 - Enable in settings the deliver methods
 - Configure or create shipping methods
 - Must be published

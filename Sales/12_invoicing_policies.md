@@ -1,3 +1,5 @@
+## Invoicing Policies
+
 <u>Ordered Quantities</u> - When they plate the order
 
 <u>Delivered Quantities</u> - When order is delivered, invoice and goods will be delivered at the same time
