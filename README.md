@@ -25,3 +25,7 @@ Status
 | Sales               |  Ongoing   |
 | Purchase            |  Finished  |
 | Inventory           |  Ongoing   |
+
+
+My notes
+<img width="541" height="720" alt="image" src="https://github.com/user-attachments/assets/37b2c988-917f-4bb7-b3eb-dc02df440634" />
