@@ -16,6 +16,8 @@ Purchase Video Tutorials: https://www.odoo.com/slides/purchase-23
 
 Inventory Video Tutorials: https://www.odoo.com/slides/inventory-24
 
+Subscription Video Tutorials: https://www.odoo.com/slides/subscription-20
+
 Status
 
 | Module              | NoteStatus |
@@ -25,6 +27,7 @@ Status
 | Sales               |  Ongoing   |
 | Purchase            |  Finished  |
 | Inventory           |  Ongoing   |
+| Subscription        |  Ongoing   |
 
 
 My notes
