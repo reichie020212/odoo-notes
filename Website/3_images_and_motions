@@ -1,0 +1,19 @@
+## Design you website: Images and Motions
+
+Blocks section are separated into four categories:
+Structure - Which consists of classic blocks used to display headings, images, and text. They are the classic features.
+Features - Which are meant to display more advanced blocks. They display specific information in a smarter way. For example, a comparison of prices.
+Dynamic Content - These are blocks that are integrated with other apps such as products that are sold in e-commerce or newsletter.
+Inner Content - Which are blocks that are aimed to be added inside of another block. For example, a button
+
+When replacing or adding an image, you can use images that is added by odoo for free by just using the search bar and search for any specific image you want like `belgium`.
+
+to add a motion, one way is to add a video. To add a video, select a block, then on the background field, select `video`, then paste your video URL or embed code
+
+another way to add motion is by using `animation`.
+
+Try to add background shape to the blocks
+
+If a block you customized will be used many times, you can save it as a template.
+
+
